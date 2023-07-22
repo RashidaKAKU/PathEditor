@@ -1,4 +1,5 @@
 # 环境变量编辑器 patheditor2 汉化
+利用 ResourceHacker 进行的汉化，所以代码部分没有修改，直接下载包即可。
 
 由于 CodePlex 关闭，https://patheditor2.codeplex.com 的非官方镜像，Rahida 中文汉化。
 
