@@ -1,13 +1,13 @@
-# patheditor2-mirror
+# 环境变量编辑器 patheditor2 汉化
 
-Unofficial mirror of https://patheditor2.codeplex.com/ due to CodePlex shutting down
+由于 CodePlex 关闭，https://patheditor2.codeplex.com 的非官方镜像，Rahida 中文汉化。
 
-The default environment editor is not great at editing PATH if there are lot of entries and many of them are similar looking.
+由于系统编辑器打开麻烦，所以有了此软件。
 
-1. Implemented using Win32, **Does not depend on MFC or .NET**
-2. Missing folders are highlighted with different icon.
-3. To edit System PATH, offers to be launched with elevated admin privilege, similar to "Run as Administrator"
-4. Double clicking any path entry attempts to open in Windows Explorer.
+1. 使用了 **Win32**, 不依赖 **MFC** 或 **.NET**
+2. 缺少的文件夹以不同的图标突出显示。
+3. 要编辑系统变量，请以提升的管理员权限启动，类似于“以管理员身份运行”
+4. 双击任何路径条目尝试在 Windows 资源管理器中打开。
 
 
 ![screenshot](https://farm6.staticflickr.com/5528/9216019339_ea67407001_z.jpg)
