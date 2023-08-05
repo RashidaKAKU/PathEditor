@@ -11,4 +11,4 @@
 4. 双击任何路径条目尝试在 Windows 资源管理器中打开。
 
 
-![screenshot](D:\Code\PathEditor\README\屏幕截图 2023-08-06 022752.png)
+![screenshot](https://github.com/RashidaKAKU/PathEditor/blob/master/README/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-06%20022752.png)
