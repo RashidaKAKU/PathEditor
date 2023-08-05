@@ -11,4 +11,4 @@
 4. 双击任何路径条目尝试在 Windows 资源管理器中打开。
 
 
-![screenshot](https://farm6.staticflickr.com/5528/9216019339_ea67407001_z.jpg)
+![screenshot](D:\Code\PathEditor\README\屏幕截图 2023-08-06 022752.png)
